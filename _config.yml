@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Rosario Medina Rodríguez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD. Candidate at Pontificia Universidad Católica del Perú. Interested in Image Processing, Machine Learning and Remote Sensing."
   location         : "Lima-Perú"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/ramedinar/"
   orcid            : "https://orcid.org/0000-0001-9836-5339"
   pinterest        :
   soundcloud       :
