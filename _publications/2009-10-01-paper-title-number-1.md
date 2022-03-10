@@ -1,7 +1,7 @@
 ---
 title: "Journal 1"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2009-10-01-paper-title-number-1.md
 excerpt: ' Your Name, You. (2009)'
 date:  Title 1
 venue: 'This paper is about the number 1 '
