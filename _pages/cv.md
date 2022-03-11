@@ -12,9 +12,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Systems Engineering, Universidad Nacional de San Agustín, 2009, Arequipa-Perú
-* M.S. in Computer Science, Institute of Mathematics and Statistics, University of Sao Paulo, 2012, Sao Paulo-Brazil
-* Ph.D (C) in Engineering, Pontificia Universidad Católica del Perú, 2022 (expected), Lima-Perú
+* B.S. in Systems Engineering, Universidad Nacional de San Agustín, Arequipa-Perú, 2009
+* M.S. in Computer Science, Institute of Mathematics and Statistics, University of Sao Paulo, Sao Paulo-Brazil, 2012
+* Ph.D (C) in Engineering, Pontificia Universidad Católica del Perú, Lima-Perú, 2022 (expected)
 
 You can find my CV in [here](/files/RMedina_cv.pdf)
 
