@@ -16,7 +16,7 @@ Education
 * M.S. in Computer Science, University of Sao Paulo, 2012, Sao Paulo-Brazil
 * Ph.D (C) in Engineering, Pontificia Universidad Católica del Perú, 2022 (expected)
 
-You can find my CV in [here](/files/cv/RMedina_cv.pdf)
+You can find my CV in [here](/files/RMedina_cv.pdf)
 
 
 <!--- 
