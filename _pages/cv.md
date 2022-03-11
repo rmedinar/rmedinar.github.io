@@ -9,33 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Systems Engineering, Universidad Nacional de San Agustín, 2009, Arequipa-Perú
+* M.S. in Computer Science, University of Sao Paulo, 2012, Sao Paulo-Brazil
+* Ph.D (C) in Engineering, Pontificia Universidad Católica del Perú, 2022 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+You can find my CV in [here](/files/cv/RMedina_cv.pdf)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+<!--- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -56,4 +40,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --->
