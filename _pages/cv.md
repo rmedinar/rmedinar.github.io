@@ -16,10 +16,11 @@ Education
 * M.S. in Computer Science, Institute of Mathematics and Statistics, University of Sao Paulo, Sao Paulo-Brazil, 2012.
 * Ph.D (C) in Engineering, Pontificia Universidad Católica del Perú, Lima-Perú, 2022.
 
+<!--- 
 You can find my CV in [here](/files/cv_RMedina.pdf)
 
 
-<!--- 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
